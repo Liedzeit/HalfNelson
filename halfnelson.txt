@@ -1,0 +1,3 @@
+# HalfNelson
+
+This is the ultimate Sparks app. No real ideas yet.
