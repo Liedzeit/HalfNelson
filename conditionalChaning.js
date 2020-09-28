@@ -2,16 +2,16 @@ const house = {
   price: 2000000,
   currency: 'USD',
   address: {
-    city: 'New York',
-    street: 'Main street',
+    city: 'Neu-Ulm',
+    street: 'Achimstraße',
     postal_code: '1234 AB',
     state: {
-      name: 'New York',
-      abbreviation: 'N.Y.'
+      name: 'Xanadu',
+      abbreviation: 'X.U.'
     }
   },
   owner: {
-    name: "John Doe"
+    name: "Jane Fonda"
   }
 }
 
